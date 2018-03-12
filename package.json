@@ -1,0 +1,9 @@
+{
+  "name": "react-input-trigger-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "react-input-trigger": "^1.0.2"
+  }
+}
